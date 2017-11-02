@@ -1,0 +1,5 @@
+C:\Dev\Projects\CoQSolver\CoQSolver.Utility\bin\Debug\CoQSolver.Utility.dll
+C:\Dev\Projects\CoQSolver\CoQSolver.Utility\bin\Debug\CoQSolver.Utility.pdb
+C:\Dev\Projects\CoQSolver\CoQSolver.Utility\obj\Debug\CoQSolver.Utility.dll
+C:\Dev\Projects\CoQSolver\CoQSolver.Utility\obj\Debug\CoQSolver.Utility.pdb
+C:\Dev\Projects\CoQSolver\CoQSolver.Utility\obj\Debug\CoQSolver.Utility.csprojResolveAssemblyReference.cache

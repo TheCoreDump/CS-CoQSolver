@@ -1,0 +1,1 @@
+FileBuilder.exe "C:\Users\Public\Documents\Dictionary\Output.dat" "C:\Users\Public\Documents\Dictionary\english-words.10" "C:\Users\Public\Documents\Dictionary\english-words.20"
